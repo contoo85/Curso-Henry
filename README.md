@@ -1,2 +1,1 @@
-# Curso-Henry
-Informacion importante del curso
+este proyecto es una prueba
